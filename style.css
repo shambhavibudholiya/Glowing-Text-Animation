@@ -67,3 +67,8 @@ h1 span:nth-child(8){
         text-shadow:none;
     }
 }
+@media only screen and (max-width: 800px) {
+    h1{
+        font-size: 5em;
+    }
+  }
