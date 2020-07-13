@@ -52,14 +52,14 @@ h1 span:nth-child(8){
     0%,100%{
         color: #fff;
         filter: blur(2px);
-        text-shadow: 0 0 10px #00b3ff,
-        0 0 20px #00b3ff,
-        0 0 40px #00b3ff,
-        0 0 80px #00b3ff,
-        0 0 120px #00b3ff,
-        0 0 200px #00b3ff,
-        0 0 300px #00b3ff,
-        0 0 400px #00b3ff
+        text-shadow: 0 0 10px #e7305b,
+        0 0 20px #e7305b,
+        0 0 40px #e7305b,
+        0 0 80px #e7305b,
+        0 0 120px #e7305b,
+        0 0 200px #e7305b,
+        0 0 300px #e7305b,
+        0 0 400px #e7305b
     }
     5%,95%{
         color: #111;
@@ -68,7 +68,8 @@ h1 span:nth-child(8){
     }
 }
 @media only screen and (max-width: 800px) {
-    h1{
-        font-size: 5em;
-    }
+   h1{
+    font-size: 5em;
+}
+
   }
